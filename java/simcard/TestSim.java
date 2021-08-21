@@ -1,4 +1,3 @@
-package simcard;
 import java.util.Comparator;
 
 public class TestSim implements Comparator<String>{

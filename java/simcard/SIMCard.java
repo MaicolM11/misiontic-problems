@@ -1,6 +1,4 @@
-package simcard;
-
-public class SIMCard{
+public class SIMCard {
     //Inserte acá los atributos
     private String empresaTelefonia;
     private double saldo;
